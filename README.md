@@ -1,5 +1,5 @@
 # Mask-R-CNN-for-water-detection
-This is an implimentation of Mask R-CNN proposed by Facebook AI Research (Girshick et al) for water detection implemented in python3, Keras and Tensorflow based on (https://arxiv.org/abs/1703.06870). The Mask R-CNN model performes water curtain detection, draws bounding box around it and applies segmentation mask. 
+This is an implimentation of Mask R-CNN proposed by Facebook AI Research (Girshick et al) for water detection implemented in python3, Keras and Tensorflow based on (https://github.com/matterport/Mask_RCNN). The Mask R-CNN model performes water curtain detection, draws bounding box around it and applies segmentation mask. 
 
 ![](assets/Water_Det.gif)
 
