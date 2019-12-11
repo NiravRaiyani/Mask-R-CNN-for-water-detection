@@ -5,7 +5,7 @@ This is an implimentation of Mask R-CNN proposed by Facebook AI Research (Girshi
 
 UPDATE: The model now can also detect the person and can give the water distribution as a function of height.
 
-![](assets/Water_Det.gif)
+![](assets/water_person_detection.gif)
 
 The repository includes:
 * The source code of Mask R-CNN with Resnet 101 and FPN(Feature Pyramid Network) as backbone.
