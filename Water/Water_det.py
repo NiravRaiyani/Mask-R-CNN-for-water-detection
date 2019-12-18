@@ -1,7 +1,7 @@
 
 """
 Python code for Water detection using Mask R-CNN first proposed by Girshick et al
-and implimented by Matterport in Tensorflow and Keras.
+
 
 Created on Tue Jul 30 15:49:57 2019
 
